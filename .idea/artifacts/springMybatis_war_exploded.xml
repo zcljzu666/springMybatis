@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="springMybatis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springMybatis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springMybatis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springMybatis" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
